@@ -1,7 +1,7 @@
 
 body{
     background-color: gainsboro;
-    
+    border:black 1px;
 }
 @keyframes color-change {
   from {
