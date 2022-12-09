@@ -1,0 +1,222 @@
+
+body{
+    background-color: gainsboro;
+    
+}
+@keyframes color-change {
+  from {
+    color: #0cc8ff;
+  }
+  20% {
+    color: #e2ab26;
+  }
+  40% {
+    color: #139d82;
+  }
+  60% {
+    color: #990000;
+  }
+  80% {
+    color: #985391;
+  }
+   to {
+      color: #bedc7b;   
+    }
+    
+}
+span{
+  color: #0cc8ff;
+  animation-name: color-change;
+  animation-duration: 0.5s;
+    animation-iteration-count: 5000;
+}
+
+.button{
+    background-color: lightgray;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button:hover {
+      background-color:grey;
+      transition: 0.7s;
+  }
+.button:active {
+    background-color: darkgray;
+}
+.button1{
+    background-color: red;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+}
+.button1:hover {
+      background-color:firebrick;
+      transition: 0.7s;
+  }
+.button1:active {
+    background-color: darkred;
+}
+.button2{
+    background-color: violet;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button2:hover {
+      background-color:darkviolet;
+      transition: 0.7s;
+  }
+.button2:active {
+    background-color: rebeccapurple;
+}
+.button3{
+    background-color: dodgerblue;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button3:hover {
+      background-color:mediumblue;
+      transition: 0.7s;
+  }
+.button3:active {
+    background-color: darkblue;
+}
+.button4{
+    background-color: lightcyan;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button4:hover {
+      background-color:cyan;
+      transition: 0.7s;
+  }
+.button4:active {
+    background-color: darkcyan;
+}
+.button5{
+    background-color: palegreen;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button5:hover {
+      background-color:limegreen;
+      transition: 0.7s;
+  }
+.button5:active {
+    background-color: darkgreen;
+}
+.button6{
+    background-color: lightgoldenrodyellow;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button6:hover {
+      background-color:yellow;
+      transition: 0.7s;
+  }
+.button6:active {
+    background-color: goldenrod;
+
+}
+.button7{
+    background-color: red;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button7:hover {
+      background-color:firebrick;
+      transition: 0.7s;
+  }
+.button7:active {
+    background-color: darkred;
+}
+.button8{
+    background-color: cadetblue;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button8:hover {
+      background-color:teal;
+      transition: 0.7s;
+  }
+.button8:active {
+    background-color: darkslategray;
+}
+body{
+    font-family: monospace;
+}
+p{
+    font-size: 150%;
+
+}
+p{
+    border:3px black;
+}
+.button9{
+    background-color: lightgray;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button9:hover {
+      background-color:lightgray;
+      transition: 0.7s;
+  }
+.button9:active {
+    background-color: gray;
+}
+.button10{
+    background-color: darkgray;
+    border: none;
+    border-radius: 6px;
+    padding:15px;
+    min-height:30px; 
+    font-family: monospace;
+    
+}
+.button10:hover {
+      background-color:darkgray;
+      transition: 0.7s;
+  }
+.button10:active {
+    background-color: gray;
+}
+body.dm{
+    background-color: darkgray
+}
